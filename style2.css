@@ -1,0 +1,36 @@
+.square {
+    width: 350px;
+    height: 220px;
+    margin-bottom: 30px;
+    padding: 15px, 10px, 20px, 10px;
+    border-style: dotted 2px;
+    background: green;
+}
+
+section {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.img1 {
+    float: left;
+    width: 250px;
+    margin: 0 20px 0 0;
+    padding-bottom: 15px;
+}
+
+.img2 {
+    float: right;
+    width: 200px;
+    height: 100px;
+    margin-left: 20px;
+    padding: 12px 0;
+}
+
+p {
+    text-align: justify;
+}
+
+header {
+    height: 500px;
+}
